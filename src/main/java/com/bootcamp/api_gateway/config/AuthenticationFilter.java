@@ -1,4 +1,4 @@
-package com.rd.spring.gateway.config;
+package com.bootcamp.api_gateway.config;
 
 import io.jsonwebtoken.Claims;
 import org.springframework.beans.factory.annotation.Autowired;

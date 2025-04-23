@@ -1,4 +1,4 @@
-package com.rd.spring.gateway.config;
+package com.bootcamp.api_gateway.config;
 
 import org.springframework.http.server.reactive.ServerHttpRequest;
 import org.springframework.stereotype.Component;
