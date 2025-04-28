@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bootcamp.api_gateway.ApiGatewayApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 7.243 s -- in com.bootcamp.api_gateway.ApiGatewayApplicationTests

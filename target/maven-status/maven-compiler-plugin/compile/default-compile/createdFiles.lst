@@ -1,0 +1,5 @@
+com\bootcamp\api_gateway\ApiGatewayApplication.class
+com\bootcamp\api_gateway\config\RouterValidator.class
+com\bootcamp\api_gateway\config\JwtUtil.class
+com\bootcamp\api_gateway\config\AuthenticationFilter.class
+com\bootcamp\api_gateway\config\GatewayConfig.class
